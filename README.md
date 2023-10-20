@@ -1,4 +1,4 @@
-<h5>Steps</h5>
+<h3>Steps</h3>
 <ul>
 <li>git clone https://github.com/rizkyperdananst/mern-e-backend.git</li>
 <li>cd mern-e-backend</li>
